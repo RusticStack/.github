@@ -19,7 +19,7 @@ wrappers, no bloat, and nothing phoning home.
     </td>
   </tr>
   <tr>
-    <td width="140" align="center"><img src="https://img.shields.io/badge/-CI-2A2A30?style=for-the-badge" alt="" height="0"><b>Sentinel</b></td>
+    <td width="140" align="center"><img src="https://img.shields.io/badge/self--hosted-CI-2A2A30?style=for-the-badge&logo=rust&logoColor=white" alt="Self-hosted CI, written in Rust"></td>
     <td>
       <h3><a href="https://github.com/RusticStack/sentinel">Sentinel</a></h3>
       A fast, self-hosted CI engine built from scratch in Rust: quick feedback on pull requests,
